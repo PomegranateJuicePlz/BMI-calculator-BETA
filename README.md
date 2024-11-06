@@ -1,2 +1,2 @@
 # BMI-Calc
-This is a project I made for my CSP class. Thank you to my fellow peers for collaboration on this project as well as my copmuter science teacher whom I will not be disclosing due to respecting their privacy.
+This BMI calculator has been a passion project of mine every since i got the idea online (XDD). I installed VS code and with my current knowledge in java, i rebulit the entire thing! Looks lame but, you're not the one making it now, are you?
